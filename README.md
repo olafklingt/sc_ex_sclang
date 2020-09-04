@@ -1,6 +1,6 @@
 # ScExSclang
 
-**TODO: Add description**
+This elixir library set up an Elixir port to a SuperCollider Language instance. Its development will halt for now because I do not have a use case for it.
 
 ## Installation
 
@@ -18,4 +18,3 @@ end
 Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
 and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
 be found at [https://hexdocs.pm/sc_ex_sclang](https://hexdocs.pm/sc_ex_sclang).
-
